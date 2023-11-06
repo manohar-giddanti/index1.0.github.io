@@ -1,0 +1,111 @@
+/* It is used for main car box */
+.manohar{
+    background-color: blue;
+    width: 200px;
+    height: 250px;
+    position:fixed;
+    left: 30%;
+    top: 24%;
+}
+/* It is also used for main car box */
+.manoj{
+    background-color: blue;
+    width: 200px;
+    height: 250px;
+    position:fixed;
+    left: 45%;
+    top: 24%;
+    border-left: 2px solid black;
+}
+/* it is used for window */
+.madhav{
+    background-color: gray;
+    width: 80px;
+    height: 40px;
+    border: 2px solid black;
+    position:fixed;
+    left:35%;
+    top: 35%;
+}
+/* it is used for window */
+.maneesh{
+    background-color:gray;
+    width: 80px;
+    height: 40px;
+    border: 2px solid black;
+    position:fixed;
+    left: 50%;
+    top: 35%;
+}
+/* it is used for below full bar */
+.madhu{
+    background-color:blue;
+    width: 600px;
+    height: 150px;
+    position: fixed;
+    left: 23%;
+    top: 41%;
+    border-radius: 10%;
+}
+/* it is used for circle */
+.circle{
+        background-color: black;
+        width: 70px;
+        height: 70px;
+        position: fixed;
+        left: 35%;
+        top: 63%;
+        border-radius:50%;
+}
+/*it is also used for circle  */
+#circle{
+    background-color: black;
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    left: 52%;
+    top: 63%;
+    border-radius:50%;
+}
+/* it is used for red light */
+.light{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    left: 23%;
+    top: 46%;
+    border-radius:5%;
+}
+/*it is used for yellow light  */
+.yellow{
+    background-color: yellow;
+    width: 60px;
+    height:60px;
+    position: fixed;
+ left: 65%;
+ top: 44%;
+ border-radius: 5%;
+}
+/* it is used for side rotate boxed */
+.side{
+    background-color: blue;
+    height: 100px;
+    width: 50px;
+    position: fixed;
+    left: 28%;
+    top: 28%;
+    transform: rotate(30deg);
+
+
+}
+/* it is used for side rotate boxed */
+.sside{
+    background-color:blue;
+    height: 100px;
+    width: 50px;
+    position: fixed;
+    left:59%;
+    top: 28%;
+    transform: rotate(330deg);
+}
